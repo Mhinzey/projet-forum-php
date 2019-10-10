@@ -1,0 +1,5 @@
+Admin:
+Username: admin		password: admin
+
+Utilisateur test:
+Username: test		password: patate
